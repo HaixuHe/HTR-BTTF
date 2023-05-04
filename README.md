@@ -25,21 +25,21 @@
 
 
 ```
-@ARTICLE{9672202,
+@article{he2022bayesian,
+  title={Bayesian Temporal Tensor Factorization-Based Interpolation for Time-Series Remote Sensing Data With Large-Area Missing Observations},
   author={He, Haixu and Yan, Jining and Wang, Lizhe and Liang, Dong and Peng, Jianyi and Li, Chengjun},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Bayesian Temporal Tensor Factorization-Based Interpolation for Time Series Remote Sensing Data with Large-Area Missing Observations}, 
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--13},
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TGRS.2022.3140436}}
+  publisher={IEEE}
+}
 ```
 
 
 
 ```
-@ARTICLE{9380704,
+@article{9380704,
   author={Chen, Xinyu and Sun, Lijun},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Bayesian Temporal Factorization for Multidimensional Time Series Prediction}, 
